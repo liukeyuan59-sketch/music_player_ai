@@ -1,0 +1,16 @@
+work/
+data/
+outputs/
+__pycache__/
+*.pyc
+*.spec
+
+# 防止误上传音乐
+*.mp3
+*.flac
+*.wav
+*.ogg
+*.opus
+*.m4a
+*.aac
+*.wma
